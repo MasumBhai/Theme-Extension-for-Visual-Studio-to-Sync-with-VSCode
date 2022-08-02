@@ -1,4 +1,4 @@
-# An-Extension-for-Visual-Studio-Theme-Sync-with-VSCode
+## Extension for Visual Studio Theme Synchronization with VSCode
 
 ### Acknowledgement
 <a href="https://github.com/microsoft/theme-converter-for-vs.git" target="_blank">
